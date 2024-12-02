@@ -49,4 +49,4 @@ We categorize tasks into:
 
 ---
 
-For any questions or assistance, reach out to your mentor or project manager. Happy coding! 🎉
+For any questions or assistance, reach out to any of the project collaborators. Happy coding! 🎉
